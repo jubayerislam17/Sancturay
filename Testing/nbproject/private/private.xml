@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/src/java/com/testing/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/src/java/com/testing/dao/UserDao.java</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/web/css/mystyle.css</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/web/JS/myJS.js</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/web/register_page.jsp</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/web/login_page.jsp</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/web/normal_navbar.jsp</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/web/index.jsp</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/src/java/com/testing/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/Rukaiya/OneDrive/Documents/NetBeansProjects/Testing/src/java/com/testing/entities/User.java</file>
+        </group>
+    </open-files>
+</project-private>
